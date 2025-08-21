@@ -45,4 +45,9 @@ A tela inicial do app apresenta:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/silaao/guru-app.git
+2. Abra o projeto no Android Studio.
+
+3. Sincronize as dependências com o Gradle.
+
+4. Execute no emulador ou em um dispositivo físico.
 
