@@ -23,12 +23,9 @@ Com uma interface intuitiva e animações envolventes, o Guru entrega orientaç�
 
 ---
 
-## 📸 Tela Inicial
+## 📸 Demonstração:
+![Preview da aplicação](https://i.imgur.com/A8ICuIC.png)
 
-A tela inicial do app apresenta:
-- Logo do **Guru** em destaque.  
-- Botões de acesso rápido para **Sinais**, **Ventos** e **Sabedoria**.  
-- Fundo em tom moderno com contraste acessível, trazendo uma experiência agradável.  
 
 ---
 
